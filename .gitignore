@@ -1,0 +1,9 @@
+# Secrets / local
+.env
+.env*
+secrets.yaml
+*.bak
+*.bak-*
+.DS_Store
+.idea/
+.vscode/
